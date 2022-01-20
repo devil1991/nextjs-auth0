@@ -10,8 +10,5 @@ export default function toSafeRedirect(dangerousRedirect: string, safeBaseUrl: U
   } catch (e) {
     return undefined;
   }
-  if (url.origin.includes(safeBaseUrl.origin)) {
-    return url.toString();
-  }
-  return undefined;
+  return url.toString();
 }

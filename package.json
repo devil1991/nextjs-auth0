@@ -1,5 +1,5 @@
 {
-  "name": "@badaboom/nextjs-auth0",
+  "name": "nextjs-auth0-no-safe-redirect",
   "version": "1.7.0",
   "description": "Next.js SDK for signing in with Auth0",
   "main": "dist/index.js",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0/nextjs-auth0.git"
+    "url": "git+https://github.com/devil1991/nextjs-auth0.git"
   },
   "keywords": [
     "auth0",
@@ -52,7 +52,7 @@
     "authentication",
     "vercel"
   ],
-  "author": "Auth0 (https://auth0.com)",
+  "author": "devil1991",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/auth0/nextjs-auth0/issues"
