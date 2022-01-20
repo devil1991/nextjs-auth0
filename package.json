@@ -1,5 +1,5 @@
 {
-  "name": "@auth0/nextjs-auth0",
+  "name": "@badaboom/nextjs-auth0",
   "version": "1.7.0",
   "description": "Next.js SDK for signing in with Auth0",
   "main": "dist/index.js",
